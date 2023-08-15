@@ -1,3 +1,18 @@
-.places-container{
+body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
   text-align: center;
+  margin: 50px auto;
+}
+
+input[type="text"] {
+  width: 200px;
+  padding: 5px;
+}
+
+button {
+  padding: 5px 10px;
+  margin: 5px;
 }
